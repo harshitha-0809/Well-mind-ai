@@ -12,8 +12,14 @@ Machine learning project to predict sleep quality based on lifestyle and health 
 - Model serialization using Pickle
 
 ## Tech Stack
-Python, Pandas, NumPy, scikit-learn, Random Forest, XGBoost, Matplotlib, Seaborn
+Python, Pandas, NumPy, scikit-learn, Random Forest, XGBoost, Matplotlib, Seaborn 
+, Streamlit
 
 ## Notes
 - Model training and evaluation were performed using Google Colab.
 - The complete ML pipeline is implemented in a single notebook.
+
+#Images
+ A machine learning–based Sleep Quality Predictor with end-to-end data preprocessing, model training, evaluation, and deployment-ready pipeline.
+
+
