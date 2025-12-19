@@ -13,7 +13,6 @@ Machine learning project to predict sleep quality based on lifestyle and health 
 
 ## Tech Stack
 Python, Pandas, NumPy, scikit-learn, Random Forest, XGBoost, Matplotlib, Seaborn 
-, Streamlit
 
 ## Notes
 - Model training and evaluation were performed using Google Colab.
