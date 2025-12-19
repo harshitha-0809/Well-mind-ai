@@ -18,8 +18,10 @@ Python, Pandas, NumPy, scikit-learn, Random Forest, XGBoost, Matplotlib, Seaborn
 ## Notes
 - Model training and evaluation were performed using Google Colab.
 - The complete ML pipeline is implemented in a single notebook.
+  
+## Model Performance
+- Accuracy: 98.6%
+- Models Compared: Random Forest, XGBoost
 
-#Images
- A machine learning–based Sleep Quality Predictor with end-to-end data preprocessing, model training, evaluation, and deployment-ready pipeline.
 
 
